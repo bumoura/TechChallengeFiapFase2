@@ -152,7 +152,7 @@ Pares revisando PRs e incentivando a commit contínuo, para evitar perder trabal
 Cada erro foi registrado, pesquisado e documentado para facilitar manutenções futuras.
 
 👥 Equipe & Créditos
-Desenvolvido por: [Bruna Moura, rm362412] - [Carolina M, rm] - [Fernanda Magalhães, rm]
+Desenvolvido por: [Bruna da Silva Moura] - [Carolina de Sousa Rodrigues Moreira] - [Fernanda Vieira Magalhães]
 
 Tech Challenge Fase 2 - FIAP/Outros
 
